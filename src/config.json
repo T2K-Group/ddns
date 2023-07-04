@@ -1,0 +1,18 @@
+
+[
+    {
+        "domain": "vpn.example.com",
+        "provider": "google",
+        "api_key": "123456789",
+        "record_type": "A"
+    },
+
+    {
+        "domain": "server.example.com",
+        "provider": "cloudflare",
+        "api_key": "123456789",
+        "record_type": "A"
+    }
+
+
+]
